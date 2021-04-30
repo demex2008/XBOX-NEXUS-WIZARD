@@ -1,12 +1,12 @@
-name="Stranger"               
+name="X-box Build"               
 version="1.0"             
 url="http://"                
 gui="http://"
 kodi="18.9"
-theme="https://github.com/demex2008/wizard/blob/master/screenshot000.png"
-icon="https://github.com/demex2008/wizard/blob/master/icon.png"
-fanart="https://github.com/demex2008/wizard/blob/master/fanart.jpg"
+theme="https://raw.githubusercontent.com/demex2008/wizard/master/screenshot000.png
+icon="https://raw.githubusercontent.com/demex2008/wizard/master/icon.png
+fanart="https://raw.githubusercontent.com/demex2008/wizard/master/fanart.jpg
 preview="http://"
 adult="No"
-description="Stranger"
+description="Strangers Wizard"
 counter="1"
