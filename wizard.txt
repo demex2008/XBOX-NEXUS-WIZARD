@@ -1,8 +1,8 @@
 id="plugin.program.Strangers-X-Box.Wizard"
 version="1.9.0"
-zip="https://github.com/demex2008/wizard/blob/master/plugin.program.Strangers-X-Box.Wizard-1.8.0.zip"
+zip="https://github.com/demex2008/wizard/blob/master/plugin.program.Strangers-X-Box.Wizard-1.9.0.zip"
 
-name="X-box Build"
+name="X-box Build for Kodi on x-box"
 version="30.04.2021"
 url="https://mega.nz/file/CdEnlQYK#elJOHU_d3tEEYcYUF4xV55eeiLMMaV7KyRdnXkTR_EE"
 gui="https://"
