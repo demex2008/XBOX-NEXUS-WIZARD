@@ -4,7 +4,7 @@ zip="https://github.com/demex2008/wizard/blob/master/plugin.program.Strangers-X-
 
 name="X-box Build"
 version="30.04.2021"
-url="https://drive.google.com/file/d/17lVZ7f9bAci7aG-aDz1DZ_6W24zGOOI0/view?usp=sharing"
+url="https://drive.google.com/file/d/1rBdgeyuiq68noAgcyeXF5Lp2TMoVj2-i/view?usp=sharing"
 gui="https://"
 kodi="18.9"
 theme="http://"
