@@ -4,7 +4,7 @@ zip="https://raw.githubusercontent.com/demex2008/wizard/master/plugin.program.X-
 
 name="X-box Build"
 version="30.06.2021"
-url="https://onedrive.live.com/?id=38309B0481858A7E%21329&cid=38309B0481858A7E"
+url="https://onedrive.live.com/?authkey=%21AN7%2DtsoQ3thxIno&id=38309B0481858A7E%21329&cid=38309B0481858A7E"
 gui="https://"
 kodi="18.9"
 theme="http://"
