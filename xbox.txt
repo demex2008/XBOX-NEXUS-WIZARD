@@ -1,10 +1,10 @@
 id="plugin.program.Strangers-X-Box.Wizard"
 version="1.9.3"
-zip="X-Box Build.zip"
+zip="https://raw.githubusercontent.com/demex2008/wizard/master/plugin.program.X-Box.Wizard-1.9.3.zip"
 
 name="X-box Build"
 version="30.06.2021"
-url="https://onedrive.live.com/?authkey=%21AN7%2DtsoQ3thxIno&id=38309B0481858A7E%21329&cid=38309B0481858A7E"
+url="https://onedrive.live.com/?authkey=%21AN7%2DtsoQ3thxIno&id=38309B0481858A7E%21329&cid=38309B0481858A7E.zip"
 gui="https://"
 kodi="18.9"
 theme="http://"
