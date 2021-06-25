@@ -1,4 +1,3 @@
-
 name="[COLOR lime]KB18 Aeon Nox Movie[/COLOR]"
 version="[COLOR lime] Last Update 23.01.21 [/COLOR]"
 url="https://downloads.guidos-skinbase.de/hsk_wiz18/KB18_AEON_NOX_SILVIO_MOVIE.zip"
