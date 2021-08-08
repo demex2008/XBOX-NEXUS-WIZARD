@@ -4,7 +4,7 @@ zip="https://raw.githubusercontent.com/demex2008/wizard/master/plugin.program.X-
 
 name="XBOX Build"
 version="30.06.2021"
-url="https://drive.google.com/file/d/188BQH82ZJHZYWwL2gxyipHMRgAYWp0sT/view?usp=sharing"
+url="https://drive.google.com/drive/folders/1gMlZPKAqFGU_i0NyFEmnJJhfnSojE9Vh"
 gui="https://"
 kodi="18.9"
 theme="http://"
