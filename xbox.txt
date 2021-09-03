@@ -1,6 +1,6 @@
-id="plugin.program.XBOX Wizard"
-version="1.9.3"
-zip="https://"
+id="plugin.program.XBOX.Build.Wizard"
+version="1.9.5"
+zip="https://www.dropbox.com/s/aqhx1f5pwgqhr0k/plugin.program.XBOX.Build.Wizard-1.9.5.zip?dl=1"
 
 name="XBOX Build"
 version="30.06.2021"
