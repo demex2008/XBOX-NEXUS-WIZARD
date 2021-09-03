@@ -1,0 +1,18 @@
+id="plugin.program.X-Box.Wizard"
+version="1.9.3"
+zip="https://www.dropbox.com/s/56jw12b43cpyt63/plugin.program.X-Box.Wizard-1.9.3.zip?dl=1"
+
+name="XBOX Build"
+version="30.06.2021"
+url="https://www.dropbox.com/s/okzsu7u0ahp2cf9/XBOX%20Build.zip?dl=1"
+minor="http://"
+gui="url.to.guisettings"
+kodi="18.9"
+theme="url.to.themes"
+icon="https://raw.githubusercontent.com/demex2008/wizard/master/X-box.Buiild.png"
+fanart="https://raw.githubusercontent.com/demex2008/wizard/master/fanart.jpg"
+preview="https://"
+adult="no"
+info="url.to.info"
+description="X-box Build by demex2008"
+
