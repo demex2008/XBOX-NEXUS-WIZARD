@@ -1,6 +1,6 @@
 name="XBOX-ONE Repository"
 plugin="repository.XBOX-ONE"
-url="https://raw.githubusercontent.com/demex2008/XBOX-ONE/master/repository.XBOX-ONE/repository.XBOX-ONE-1.1.5.zip"
+url="https://www.dropbox.com/s/49qhxw7ch4y5u5j/repository.XBOX-ONE/repository.XBOX-ONE-1.1.5.zip?dl=1"
 repository="repository.XBOX-ONE"
 repositoryxml="https://raw.githubusercontent.com/demex2008/XBOX-ONE/master/repository.XBOX-ONE/addon.xml"
 repositoryurl="https://raw.githubusercontent.com/demex2008/XBOX/master/repository.XBOX-ONE/"
