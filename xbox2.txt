@@ -1,5 +1,5 @@
-id="plugin.program.XBOX.matrix.Wizard"
-version="1.1.1"
+id="plugin.program.XBOX.Build.Wizard"
+version="533"
 zip="https://"
 
 name="XBOX Matrix"
