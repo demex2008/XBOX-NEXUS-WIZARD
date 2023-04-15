@@ -1,1 +1,1 @@
-# X-box Wizard
+# XBOX Wizard
