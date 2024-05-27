@@ -1,6 +1,6 @@
 name="XBOX-OMEGA"
 version="[COLOR yellow]2.4[/COLOR]"
-url="https://www.dropbox.com/s/qpz14khnl9ejotn/XBOX-Nexus.zip?dl=1"
+url="https://www.dropbox.com/scl/fi/3idoaj10pthg6ocxuj7o2/XBOX-OMEGA.zip?rlkey=cz6ydtgjtgjjin42y582bs3rb&st=6si1f86t&dl=1"
 minor="http://"
 gui="http://"
 kodi="21.1"
