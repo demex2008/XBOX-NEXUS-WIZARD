@@ -66,7 +66,7 @@ def update_json(new):
         if(cookie != "" and len(cookie) > 1):   
             arr = cookie.split('|')
             headers = {'Cookie': arr[0]}
-            r = requests.get('https://www.dropbox.com/scl/fi/xzxmoqy0qyrz7qrsdklom/playlist.json?rlkey=c3javbfuwmtiolu738nz3uqcl&st=ro8bu4vj&dl=1', headers=headers)
+            r = requests.get('https://raw.githubusercontent.com/demex2008/XBOX-NEXUS-WIZARD/master/wagas/playlist.json', headers=headers)
             f = open(addonDir + '/' + 'playlist.json', "w")
             f.write(r.text)
             f.close()
