@@ -14,7 +14,7 @@ description="XBOX-OMEGA Wizard by demex2008"
 
 name="KUS Mediacenter Build"
 version="3.4"
-url="https://kodi-unlimited-support.de/wizarddata/builds/omega/KUS_MC_21-3.4.zip"
+url="https://www.dropbox.com/scl/fi/v1qrlx98gd56jwitfxlpa/KUS_MC_21-3.4.zip?rlkey=2jow5xnlrv22fxvsy4pq0k0m8&st=r0n8lghs&dl=1"
 minor="https://"
 gui="https://"
 kodi="21.1"
@@ -28,7 +28,7 @@ description="- LiveTV inkl. EPG[CR]- Filme/Serien[CR]- Mediatheken[CR]- Radio/Mu
 
 name="KUS Mediacenter Build Light"
 version="3.1"
-url="https://kodi-unlimited-support.de/wizarddata/builds/omega/KUS_MC_21_Light-3.1.zip"
+url="https://www.dropbox.com/scl/fi/kedoc29u5ndi8sc4hajc1/KUS_MC_21_Light-3.1.zip?rlkey=sk5t5nhncjn8ytpir6uytq0p1&st=jdttkpnl&dl=1"
 minor="https://"
 gui="https://"
 kodi="21.1"
