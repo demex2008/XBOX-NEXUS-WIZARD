@@ -1,7 +1,7 @@
 {
     "presets": [
         {
-            "name": "Enable All Artwork",
+            "name": "Alle Grafiken aktivieren",
             "section": false,
             "url": "https://raw.githubusercontent.com/drinfernoo/repository.openwizard/master/presets/artwork_preset.xml",
             "icon": "",
