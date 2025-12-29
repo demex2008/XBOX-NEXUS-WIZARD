@@ -1,3 +1,7 @@
+id="plugin.program.kuswizard"
+version="2025.04"
+zip="https://kodi-unlimited-support.de/wizard115"
+
 name="XBOX-OMEGA"
 version="[COLOR yellow]2.5[/COLOR]"
 url="https://www.dropbox.com/scl/fi/3idoaj10pthg6ocxuj7o2/XBOX-OMEGA.zip?rlkey=cz6ydtgjtgjjin42y582bs3rb&st=6si1f86t&dl=1"
