@@ -1,6 +1,6 @@
 name="XBOX Omega Build"
-version="2025.12"
-url="https://www.dropbox.com/scl/fi/3idoaj10pthg6ocxuj7o2/XBOX-OMEGA.zip?rlkey=cz6ydtgjtgjjin42y582bs3rb&st=py50owhf&dl=1"
+version="2026.02"
+url="https://www.dropbox.com/scl/fi/uk6xu3r87usem2kcb2r10/XBOX-OMEGA.zip?rlkey=fmgbg7ru6xgl9d00jtiwzm686&st=wllqiy5n&dl=1"
 minor="http://"
 gui="http://"
 kodi="21.0"
